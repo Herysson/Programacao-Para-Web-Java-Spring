@@ -179,18 +179,26 @@ Para manipular um elemento com JS, primeiro precisamos "encontrá-lo" no HTML.
 | `querySelector()` | Busca o primeiro elemento que corresponde a um seletor CSS (tag, `.classe`, `#id`). | `document.querySelector(".minha-classe")` |
 | `querySelectorAll()` | Retorna uma NodeList (lista) com todos os elementos que correspondem a um seletor CSS. | `document.querySelectorAll("p")` |
 
+---
+
 ### 2. Alterando o Conteúdo e os Estilos
 
-Uma vez que o elemento está selecionado e armazenado em uma variável, podemos modificar seu conteúdo ou aparência.
+Uma vez que o elemento está selecionado e armazenado em uma variável, podemos modificar seu conteúdo ou aparência. Veja como o HTML e o JavaScript trabalham juntos neste caso prático para o currículo:
 
+**HTML:**
+```html
+<h3 id="profissao">Desenvolvedor Júnior</h3>
+```
+
+**JavaScript:**
 ```javascript
-// Seleciona um elemento com id="profissao" no HTML
+// 1. Seleciona o elemento com id="profissao" no HTML
 let profissaoElemento = document.getElementById("profissao");
 
-// Altera o texto visível desse elemento
+// 2. Altera o texto visível desse elemento
 profissaoElemento.textContent = "Desenvolvedor Front-end Especialista";
 
-// Altera o estilo CSS diretamente via JavaScript
+// 3. Altera o estilo CSS diretamente via JavaScript (CSS Inline)
 profissaoElemento.style.color = "blue";
 profissaoElemento.style.fontSize = "24px";
 ```
