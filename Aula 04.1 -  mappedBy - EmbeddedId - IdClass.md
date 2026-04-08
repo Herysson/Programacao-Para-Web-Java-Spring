@@ -1,4 +1,4 @@
-# Aula 03 - mappedBy, EmbeddedId e IdClass
+# MappedBy, EmbeddedId e IdClass
 
 ## `mappedBy`
 O atributo `mappedBy` no JPA é usado para indicar o lado **não proprietário** de um relacionamento bidirecional. Ele deve ser colocado no lado da relação que **não possui a chave estrangeira** no banco de dados.
