@@ -130,18 +130,6 @@ Cada consulta deve conter:
 
 ---
 
-## Consultas Personalizadas Sugeridas (Query Methods)
-
-Implemente pelo menos uma das consultas abaixo:
-
-* Buscar consultas de um paciente específico.
-* Buscar consultas de um médico específico.
-* Buscar consultas por status.
-* Buscar médicos por especialidade.
-* Buscar consultas agendadas para uma determinada data.
-
----
-
 ## Entrega
 
 * Suba o projeto no **GitHub pessoal** e compartilhe o link.
