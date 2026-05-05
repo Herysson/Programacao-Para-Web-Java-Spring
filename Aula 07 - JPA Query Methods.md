@@ -651,5 +651,3 @@ Este documento fornece referências para os conceitos e funcionalidades discutid
 
 - [Accessing Data with JPA - Tutorial Spring](https://spring.io/guides/gs/accessing-data-jpa/)
 - [Using Stored Procedures in Spring Data JPA](https://www.baeldung.com/spring-data-jpa-stored-procedures)
-
-Estas referências cobrem os principais aspectos dos tópicos tratados, incluindo a configuração e uso de JPA e Spring Data JPA para trabalhar com entidades, consultas, e Stored Procedures em aplicações Java com Spring.
