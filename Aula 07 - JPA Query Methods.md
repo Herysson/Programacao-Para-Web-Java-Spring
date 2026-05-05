@@ -6,7 +6,7 @@ Os Métodos de Consulta JPA, no contexto do Spring Data JPA, representam uma abo
 
 Os métodos de consulta seguem uma convenção de nomenclatura específica que o Spring Data JPA entende e traduz em consultas reais. Por exemplo, um método chamado `findByLastName(String lastName)` em um repositório relacionado a uma entidade `Person` resultará em uma consulta que busca todas as pessoas com o sobrenome especificado. O Spring Data JPA suporta uma ampla gama de palavras-chave que permitem definir critérios de seleção, ordenação, limitação de resultados, e muito mais.
 
-##Tipos de Métodos de Consulta
+### Tipos de Métodos de Consulta
 
 1. **Consulta por Derivação de Nome de Método**: Como descrito, o Spring Data JPA interpreta o nome do método e cria uma consulta.
 2. **Consulta por Anotação**: Usando a anotação `@Query`, é possível definir explicitamente a consulta JPQL ou SQL, oferecendo mais flexibilidade para casos complexos.
