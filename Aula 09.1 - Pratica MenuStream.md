@@ -28,7 +28,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 32.90,
     "categoria": "Hambúrguer",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -41,7 +41,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 27.50,
     "categoria": "Hambúrguer",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -54,7 +54,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 26.90,
     "categoria": "Hambúrguer",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -67,7 +67,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 30.00,
     "categoria": "Hambúrguer",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -80,7 +80,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 34.90,
     "categoria": "Hambúrguer",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -93,7 +93,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 28.90,
     "categoria": "Hambúrguer",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -106,7 +106,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 7.00,
     "categoria": "Bebida",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -119,7 +119,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 8.50,
     "categoria": "Bebida",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -132,7 +132,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 13.90,
     "categoria": "Bebida",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -145,7 +145,7 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 36.90,
     "categoria": "Hambúrguer",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
@@ -160,11 +160,11 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "preco": 24.90,
     "categoria": "Hambúrguer",
     "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
-### Remova um registro
+### Remova um registro (desativar o registro)
 
 11. **Burger Misterioso**
 
@@ -174,8 +174,8 @@ Os nomes dos atributos foram adaptados para português, mantendo a estrutura ger
     "descricao": "Você se arrisca? Toda semana, nosso chef cria um novo hambúrguer com ingredientes secretos.",
     "preco": 36.90,
     "categoria": "Hambúrguer",
-    "disponibilidade": true,
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMEyVsK2Sb0hq8ZJDPBRQkKzwZ2lICuPAqw&s"
+    "disponibilidade": false,
+    "imagem": "SUA IMAGEM AQUI"
 }
 ```
 
