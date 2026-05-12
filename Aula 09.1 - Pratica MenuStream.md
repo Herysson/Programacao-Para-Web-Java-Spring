@@ -2,8 +2,6 @@
 
 Nesta atividade, os registros do sistema **MenuStream** devem ser cadastrados, alterados e removidos utilizando os dados abaixo.
 
-Os nomes dos atributos foram adaptados para português, mantendo a estrutura geral da atividade original. A entidade **Produto** também recebeu o campo `imagem`.
-
 ## Produto
 
 1. **Clássico Bacon**
